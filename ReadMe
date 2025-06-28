@@ -1,0 +1,27 @@
+Single Image Dehazing using Cycle Generative Adversarial Networks
+BE COMP Project By:
+	Advait Tilak 
+	Atharva Pathak
+	Pune University - Keystone School of Engineering
+
+
+CycleGAN_dehaze.ipynb
+
+- Main model training file.
+- Run using Jupyter Notebook
+- requires keras, keras-contrib, matplotlib, tensorflow, hd5
+
+GUI code
+
+- Run with any python IDE.
+- requires PyQt5,keras, keras-contrib, matplotlib, tensorflow
+- The generated image will be saved in the same location as the source image with the name "/*original_filename*/dehazed.jpg" .
+
+load_n_generate.ipynb
+
+- A plug and play file to just test the generator model and plot the results.
+- Run using Jupyter Notebook
+- requires keras, keras-contrib, matplotlib, tensorflow, hd5
+
+Generator Model Link:
+https://drive.google.com/drive/folders/1cmWr56D2MpTPQQFgexGDQd2p-NaPnOHd?usp=sharing
